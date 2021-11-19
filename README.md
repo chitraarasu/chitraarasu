@@ -20,7 +20,7 @@ I'm Chitraarasu a Full Stack Web Developer (React/Node.js), Flutter Developer an
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://github.com/chitraarasu/secrets-node)[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://github.com/chitraarasu/keeper-react)[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-e5fbff?style=for-the-badge&labelColor=black&logo=MongoDB&logoColor=e5fbff)](https://github.com/chitraarasu/Blog-Website-Node) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://github.com/chitraarasu/Test-Your-Memory) [![Flutter Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](https://github.com/chitraarasu/BMI-Calculator) [![Dart Badge](https://img.shields.io/badge/-Dart-e535ab?style=for-the-badge&labelColor=black&logo=dart&logoColor=e535ab)](https://github.com/chitraarasu/Flash-Chat)
+[![Flutter Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](https://github.com/chitraarasu/BMI-Calculator) [![Dart Badge](https://img.shields.io/badge/-Dart-e535ab?style=for-the-badge&labelColor=black&logo=dart&logoColor=e535ab)](https://github.com/chitraarasu/Flash-Chat) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://github.com/chitraarasu/secrets-node)[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://github.com/chitraarasu/keeper-react)[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-e5fbff?style=for-the-badge&labelColor=black&logo=MongoDB&logoColor=e5fbff)](https://github.com/chitraarasu/Blog-Website-Node) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://github.com/chitraarasu/Test-Your-Memory)
 
 #### Hire me
 
@@ -47,9 +47,11 @@ LearnWithMe is a wordpress blog for learning Web/Mobile development and coding. 
 #### Coding Stats
 
 <!--START_SECTION:waka-->
+
 ```text
 No Activity tracked this Week
 ```
+
 <!--END_SECTION:waka-->
 
 #### Github Stats
