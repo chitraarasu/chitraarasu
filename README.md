@@ -47,11 +47,6 @@ LearnWithMe is a wordpress blog for learning Web/Mobile development and coding. 
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-
-```text
-No Activity tracked this Week
-```
-
 <!--END_SECTION:waka-->
 
 #### Github Stats
