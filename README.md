@@ -6,14 +6,13 @@
 
  [![Chitraarasu's github activity graph](https://activity-graph.herokuapp.com/graph?username=chitraarasu&theme=react-dark)](https://github.com/chitraarasu)
 
+#### About Me
 
 I'm Chitraarasu a Full Stack Web Developer (React/Node.js), Flutter Developer and Blog writer in [WordPress](https://kchitraarasu.wordpress.com/). I Spend most of time coding outstanding projects or writing blogs.
 
 :mailbox: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@chitraarasu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/chitraarasu)](https://twitter.com/chitraarasu) [![Mail Badge](https://img.shields.io/badge/-LearnWithMe-e74c3c?style=flat&labelColor=e74c3c&logo=wordpress&logoColor=white)](https://kchitraarasu.wordpress.com/blog/) [![Linkedin Badge](https://img.shields.io/badge/-chitraarasu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chitraarasu-k/) [![Mail Badge](https://img.shields.io/badge/-@chitraarasu-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/chitraarasu.k/) [![Mail Badge](https://img.shields.io/badge/-chitraarasu-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kchitraarasu@gmail.com)
-
-<!-- TODO: Add last video link -->
 
 - 🔭 I'm a student studying BCA final year.
 - 👨‍💻 You can also check out my portfolio at [https://chitraarasu-portfolio.herokuapp.com/](https://chitraarasu-portfolio.herokuapp.com/)
@@ -54,21 +53,10 @@ LearnWithMe is a wordpress blog for learning Web/Mobile development and coding. 
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-
-```text
-Dart             5 hrs 24 mins   ██████████████▒░░░░░░░░░░   57.66 %
-Kotlin           2 hrs 1 min     █████▒░░░░░░░░░░░░░░░░░░░   21.48 %
-HTML             39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
-JavaScript       38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
-Groovy           19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-XML              17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
-```
-
 <!--END_SECTION:waka-->
 <br/>
 
 #### Github Stats
-<br/>
 
 <!-- ./STAT -->
 <div align="center">  
@@ -77,8 +65,6 @@ XML              17 mins         ▓░░░░░░░░░░░░░░�
 </div>
 
 <!-- ![Chitraarasu github stats](https://github-readme-stats.vercel.app/api?username=chitraarasu&count_private=true&theme=tokyonight) -->
-
-<br/>
 
 <!-- ./STATS  -->
 <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=NazarovAsadbek&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Nazarov Asadbek" /></div>
