@@ -61,13 +61,13 @@ LearnWithMe is a wordpress blog for learning Web/Mobile development and coding. 
 <!-- ./STAT -->
 <div align="center">  
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=chitraarasu&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="chitraarasu github stats" /> 
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitraarasu&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitraarasu&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Most used languages" />
 </div>
 
 <!-- ![Chitraarasu github stats](https://github-readme-stats.vercel.app/api?username=chitraarasu&count_private=true&theme=tokyonight) -->
 
 <!-- ./STATS  -->
-<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=NazarovAsadbek&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Nazarov Asadbek" /></div>
+<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=NazarovAsadbek&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Chitraarasu" /></div>
 
 <!-- <a href="https://github.com/chitraarasu/"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chitraarasu&theme=tokyonight&hide_border=true" /></a> -->
 
