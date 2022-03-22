@@ -2,7 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Hi I'm Chitraarasu&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Full+Stack+Web+Developer;Flutter+Developer;Freelancer;)](https://chitraarasu-portfolio.herokuapp.com/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Full+Stack+Web+Developer;Flutter+Developer;Freelancer;)](#)
 
  [![Chitraarasu's github activity graph](https://activity-graph.herokuapp.com/graph?username=chitraarasu&theme=react-dark)](https://github.com/chitraarasu)
 
