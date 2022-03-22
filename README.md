@@ -18,7 +18,7 @@ I'm Chitraarasu a Full Stack Web Developer (React/Node.js), Flutter Developer an
 - 🔭 I'm a student studying BCA final year.
 - 👨‍💻 You can also check out my portfolio at [https://chitraarasu-portfolio.herokuapp.com/](https://chitraarasu-portfolio.herokuapp.com/)
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🌱 I’m currently learning more about nextjs.
+- 🌱 I’m currently learning more about threejs.
 - 📫 How to reach me: kchitraarasu@gmail.com.
 - 😄 Pronouns: chitraarasu, chittu.
 - ⚡ Fun fact: I watch my favourite movies in my free time.
@@ -54,6 +54,16 @@ LearnWithMe is a wordpress blog for learning Web/Mobile development and coding. 
 #### Coding Stats
 
 <!--START_SECTION:waka-->
+
+```text
+Dart             5 hrs 24 mins   ██████████████▒░░░░░░░░░░   57.66 %
+Kotlin           2 hrs 1 min     █████▒░░░░░░░░░░░░░░░░░░░   21.48 %
+HTML             39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
+JavaScript       38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+Groovy           19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+XML              17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+```
+
 <!--END_SECTION:waka-->
 <br/>
 
