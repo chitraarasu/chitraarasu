@@ -38,7 +38,7 @@ I'm Chitraarasu a Full Stack Web Developer (React/Node.js), Flutter Developer an
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=chitraarasu.chitraarasu)
 
 <details>
-<summary style="font-size: 17px">
+<summary>
   More stuff about me <img src="assets/hi.gif" width="20px" alt="hi">
 </summary>
 
