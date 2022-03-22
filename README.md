@@ -4,7 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Full+Stack+Web+Developer;Flutter+Developer;Freelancer;)](#)
 
- [![Chitraarasu's github activity graph](https://activity-graph.herokuapp.com/graph?username=chitraarasu&theme=react-dark)](https://github.com/chitraarasu)
+ <!-- [![Chitraarasu's github activity graph](https://activity-graph.herokuapp.com/graph?username=chitraarasu&theme=react-dark)](https://github.com/chitraarasu) -->
+ <div align="center">
+   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=chitraarasu&theme=react-dark&hide_border=true&area=true" />
+<!--  ![Contribution](https://activity-graph.herokuapp.com/graph?username=chitraarasu&theme=react-dark&hide_border=true&area=true) -->
+</div> 
 
 ### About Me
 
@@ -67,7 +71,7 @@ LearnWithMe is a wordpress blog for learning Web/Mobile development and coding. 
 <!-- ![Chitraarasu github stats](https://github-readme-stats.vercel.app/api?username=chitraarasu&count_private=true&theme=tokyonight) -->
 
 <!-- ./STATS  -->
-<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=NazarovAsadbek&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Chitraarasu" /></div>
+<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=chitraarasu&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Chitraarasu" /></div>
 
 <!-- <a href="https://github.com/chitraarasu/"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chitraarasu&theme=tokyonight&hide_border=true" /></a> -->
 
