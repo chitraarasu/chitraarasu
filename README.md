@@ -59,8 +59,8 @@ LearnWithMe is a wordpress blog for learning Web/Mobile development and coding. 
 <!--START_SECTION:waka-->
 
 ```text
-Dart   14 hrs 21 mins  █████████████████████████   99.58 %
-YAML   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Dart   11 hrs 7 mins   █████████████████████████   99.69 %
+YAML   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
