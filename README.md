@@ -43,7 +43,7 @@ I'm Chitraarasu a Full Stack Web Developer (React/Node.js), Flutter Developer an
 
 <details>
 <summary>
-  More stuff about me <img src="assets/hi.gif" width="20px" height="20px" alt="hi">
+  More stuff about me <img src="assets/hi.gif" width="25px" height="25px" alt="hi">
 </summary>
 
 <br >
