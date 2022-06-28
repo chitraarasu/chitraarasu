@@ -59,12 +59,12 @@ LearnWithMe is a wordpress blog for learning Web/Mobile development and coding. 
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       4 hrs 28 mins   ██████████████████▓░░░░░░   74.55 %
-Dart             1 hr 24 mins    ██████░░░░░░░░░░░░░░░░░░░   23.42 %
-Markdown         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-YAML             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Groovy           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Dart             4 hrs 52 mins   █████████████░░░░░░░░░░░░   51.73 %
+JavaScript       4 hrs 28 mins   ████████████░░░░░░░░░░░░░   47.38 %
+Markdown         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Groovy           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+TypeScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
