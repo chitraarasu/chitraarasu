@@ -16,3 +16,5 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           COMMIT_MESSAGE: Updated the Readme
           SHOW_TOTAL: true
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+
