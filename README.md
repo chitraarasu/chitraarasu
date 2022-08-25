@@ -21,7 +21,7 @@ I'm Chitraarasu a Full Stack Web Developer (React/Node.js), Flutter Developer an
 - 🔭 I'm a student studying BCA final year.
 - 👨‍💻 You can also check out my portfolio at [https://chitraarasu-portfolio.herokuapp.com/](https://chitraarasu-portfolio.herokuapp.com/)
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🌱 I’m currently learning more about threejs.
+- 🌱 I’m currently learning more about web3.
 - 📫 How to reach me: kchitraarasu@gmail.com.
 - 😄 Pronouns: chitraarasu, chittu.
 - ⚡ Fun fact: I watch my favourite movies in my free time.
