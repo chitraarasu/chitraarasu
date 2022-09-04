@@ -2,44 +2,6 @@
 
 <!-- <img width=100% src="https://camo.githubusercontent.com/94788785cb1192af68427e100ea38014cbc1d8d8cd661827588c1f6badf04ae7/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3138302673656374696f6e3d68656164657226746578743d4e617a61726f764173616462656b26666f6e7453697a653d333026666f6e74436f6c6f723d66666626616e696d6174696f6e3d7477696e6b6c696e6726666f6e74416c69676e593d3335"/> -->
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="854" height="180" viewBox="0 0 854 180">
-                <style>
-                            .text {
-						font-size: 30px;
-						font-weight: 700;
-						font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
-					}
-					.desc {
-						font-size: 20px;
-						font-weight: 500;
-						font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
-					}
-                            .text, .desc {
-							animation: twinkling 4s ease-in-out infinite;
-						}@keyframes twinkling {
-						  40% { opacity: 1; }
-						  50% { opacity: 0.5; }
-						  60% { opacity: 1; }
-						  70% { opacity: 0.5; }
-						  80% { opacity: 1; }
-						};
-                        </style>
-                <g transform="translate(427, 90) scale(1, 1) translate(-427, -90)">
-                    
-                                
-                                <path d="" fill="#00bfbf" opacity="0.4">
-                <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 0L 0 100Q 213.5 140 427 110T 854 135L 854 0 Z;M0 0L 0 125Q 213.5 140 427 120T 854 110L 854 0 Z;M0 0L 0 145Q 213.5 115 427 145T 854 110L 854 0 Z;M0 0L 0 100Q 213.5 140 427 110T 854 135L 854 0 Z"/>
-            </path>
-            <path d="" fill="#00bfbf" opacity="0.4">
-                <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L 0 115Q 213.5 160 427 130T 854 140L 854 0 Z;M0 0L 0 130Q 213.5 100 427 100T 854 120L 854 0 Z;M0 0L 0 125Q 213.5 105 427 130T 854 145L 854 0 Z;M0 0L 0 115Q 213.5 160 427 130T 854 140L 854 0 Z"/>
-            </path>
-                </g>
-                
-                        <text text-anchor="middle" alignment-baseline="middle" x="50%" y="35%" class="text" style="fill:#fff;" stroke="#none" stroke-width="1">NazarovAsadbek</text>
-                 
-            <div xmlns="" id="divScriptsUsed" style="display: none"/><script xmlns="" id="globalVarsDetection" src="chrome-extension://cmkdbmfndkfgebldhnkbfhlneefdaaip/js/wrs_env.js"/></svg>
-
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Full+Stack+Web+Developer;Flutter+Developer;Freelancer;)](#)
 
