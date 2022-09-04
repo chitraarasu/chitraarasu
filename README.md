@@ -1,6 +1,6 @@
 <!-- ## Hi I'm Chitraarasu <img src="assets/hi.gif" width="28px" alt="hi"> -->
 
-<!-- <img width=100% src="https://camo.githubusercontent.com/94788785cb1192af68427e100ea38014cbc1d8d8cd661827588c1f6badf04ae7/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3138302673656374696f6e3d68656164657226746578743d4e617a61726f764173616462656b26666f6e7453697a653d333026666f6e74436f6c6f723d66666626616e696d6174696f6e3d7477696e6b6c696e6726666f6e74416c69676e593d3335"/> -->
+<img width=100% src="https://raw.githubusercontent.com/chitraarasu/chitraarasu/6052c33ae9f7b7c297b8253320d5b77b08ea8faf/assets/top.svg"/>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Full+Stack+Web+Developer;Flutter+Developer;Freelancer;)](#)
@@ -92,4 +92,4 @@ Groovy           1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 </details>
 
-<img width=100% src="https://camo.githubusercontent.com/478c2e71786ef0b7594563a540d5469f19c2f6a7989567e7277addf3e80031e6/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d666f6f746572"/>
+<img width=100% src="https://raw.githubusercontent.com/chitraarasu/chitraarasu/6052c33ae9f7b7c297b8253320d5b77b08ea8faf/assets/bottom.svg"/>
