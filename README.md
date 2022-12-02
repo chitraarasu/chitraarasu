@@ -35,7 +35,7 @@ I'm Chitraarasu a Full Stack Web Developer (React/Node.js), Flutter Developer an
 
 ### Hire me
 
-- :paperclip: [My Resume/CV](assets/pdf/Chitraarasu-Resume.pdf)
+- :paperclip: [My Resume/CV](https://chitraarasu-portfolio.onrender.com/pdf/Chitraarasu-Resume.pdf){:target="_blank" rel="noopener"}
 - :email: kchitraarasu@gmail.com
 
 ### Profile Visits
