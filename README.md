@@ -1,6 +1,6 @@
 <!-- ## Hi I'm Chitraarasu <img src="assets/hi.gif" width="28px" alt="hi"> -->
 
-<img width=100% src="https://raw.githubusercontent.com/chitraarasu/chitraarasu/6052c33ae9f7b7c297b8253320d5b77b08ea8faf/assets/top.svg"/>
+<img width=100% src="https://chitraarasu-portfolio.onrender.com/github-profile/top.svg"/>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Full+Stack+Web+Developer;Flutter+Developer;Freelancer;)](#)
@@ -44,7 +44,7 @@ I'm Chitraarasu a Full Stack Web Developer (React/Node.js), Flutter Developer an
 
 <details>
 <summary>
-  More stuff about me <img src="https://github-profile.onrender.com/hi.gif" width="25px" height="25px" alt="hi">
+  More stuff about me <img src="https://chitraarasu-portfolio.onrender.com/github-profile/hi.gif" width="25px" height="25px" alt="hi">
 </summary>
 
 <br >
@@ -92,4 +92,4 @@ XML              9 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 </details>
 
-<img width=100% src="https://raw.githubusercontent.com/chitraarasu/chitraarasu/6052c33ae9f7b7c297b8253320d5b77b08ea8faf/assets/bottom.svg"/>
+<img width=100% src="https://chitraarasu-portfolio.onrender.com/github-profile/bottom.svg"/>
