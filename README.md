@@ -20,7 +20,7 @@ I'm Chitraarasu a Full Stack Web Developer (React/Node.js), Flutter Developer an
 [![Twitter Badge](https://img.shields.io/badge/-@chitraarasu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/chitraarasu)](https://twitter.com/chitraarasu) [![Mail Badge](https://img.shields.io/badge/-LearnWithMe-e74c3c?style=flat&labelColor=e74c3c&logo=wordpress&logoColor=white)](https://kchitraarasu.wordpress.com/blog/) [![Linkedin Badge](https://img.shields.io/badge/-chitraarasu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chitraarasu-k/) [![Mail Badge](https://img.shields.io/badge/-@chitraarasu-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/chitraarasu.k/) [![Mail Badge](https://img.shields.io/badge/-chitraarasu-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kchitraarasu@gmail.com)
 
 - 🔭 I'm a student studying BCA final year.
-- 👨‍💻 You can also check out my portfolio at [https://chitraarasu-portfolio.onrender.com/](https://chitraarasu-portfolio.onrender.com/)
+- 👨‍💻 You can also check out my portfolio at [https://chitraarasu-portfolio.cyclic.app/](https://chitraarasu-portfolio.cyclic.app/)
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🌱 I’m currently learning more about web3.
 - 📫 How to reach me: kchitraarasu@gmail.com.
@@ -35,7 +35,7 @@ I'm Chitraarasu a Full Stack Web Developer (React/Node.js), Flutter Developer an
 
 ### Hire me
 
-- :paperclip: [My Resume/CV](https://chitraarasu-portfolio.onrender.com/pdf/Chitraarasu-Resume.pdf)
+- :paperclip: [My Resume/CV](https://chitraarasu-portfolio.cyclic.app/pdf/Chitraarasu-Resume.pdf)
 - :email: kchitraarasu@gmail.com
 
 ### Profile Visits
