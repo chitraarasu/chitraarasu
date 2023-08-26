@@ -3,7 +3,7 @@
 <img width=100% src="https://chitraarasu-github-profile.netlify.app/top.svg"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Full+Stack+Web+Developer;Flutter+Developer;Freelancer;)](#)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Full+Stack+Web+Developer;Flutter+Developer;iOS+Developer;Freelancer;)](#)
 
  <!-- [![Chitraarasu's github activity graph](https://activity-graph.herokuapp.com/graph?username=chitraarasu&theme=react-dark)](https://github.com/chitraarasu) -->
  <div align="center">
