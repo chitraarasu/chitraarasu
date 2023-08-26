@@ -13,7 +13,7 @@
 
 ### About Me
 
-I'm Chitraarasu a Full Stack Web Developer (React/Node.js), Flutter Developer and Blog writer in [WordPress](https://kchitraarasu.wordpress.com/). I Spend most of time coding outstanding projects or writing blogs.
+I'm Chitraarasu a Full Stack Web Developer (React/Node.js), Flutter Developer, iOS Developer and Blog writer in [WordPress](https://kchitraarasu.wordpress.com/). I Spend most of time coding outstanding projects or writing blogs.
 
 ### :mailbox: Reach me out!
 
