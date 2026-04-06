@@ -40,7 +40,7 @@ I'm Chitraarasu, a Flutter Developer, iOS Developer, Full Stack Developer (React
 
 ### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=chitraarasu.chitraarasu)
+![visitors](https://hits.sh/github.com/chitraarasu.svg?style=flat-square&label=visitors)
 
 <details>
 <summary>
