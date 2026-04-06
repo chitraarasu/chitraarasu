@@ -13,19 +13,19 @@
 
 ### About Me
 
-I'm Chitraarasu a Full Stack Web Developer (React/Node.js), Flutter Developer, iOS Developer and Blog writer in [WordPress](https://kchitraarasu.wordpress.com/). I Spend most of time coding outstanding projects or writing blogs.
+I'm Chitraarasu, a Flutter Developer, iOS Developer, Full Stack Developer (React/Node.js), and Blogger on [WordPress](https://kchitraarasu.wordpress.com/). I spend most of my time building real-world projects and learning new things.
 
 ### :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@chitraarasu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/chitraarasu)](https://twitter.com/chitraarasu) [![Mail Badge](https://img.shields.io/badge/-LearnWithMe-e74c3c?style=flat&labelColor=e74c3c&logo=wordpress&logoColor=white)](https://kchitraarasu.wordpress.com/blog/) [![Linkedin Badge](https://img.shields.io/badge/-chitraarasu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chitraarasu-k/) [![Mail Badge](https://img.shields.io/badge/-@chitraarasu-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/chitraarasu.k/) [![Mail Badge](https://img.shields.io/badge/-chitraarasu-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kchitraarasu@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-chitraarasu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chitraarasu-k/) [![Mail Badge](https://img.shields.io/badge/-chitraarasu-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kchitraarasu@gmail.com) [![Mail Badge](https://img.shields.io/badge/-@chitraarasu-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/chitraarasu.k/) [![Twitter Badge](https://img.shields.io/badge/-@chitraarasu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/chitraarasu)](https://twitter.com/chitraarasu) [![Mail Badge](https://img.shields.io/badge/-LearnWithMe-e74c3c?style=flat&labelColor=e74c3c&logo=wordpress&logoColor=white)](https://kchitraarasu.wordpress.com/blog/)
 
-- 🔭 I'm a student studying MCA final year.
-- 👨‍💻 You can also check out my portfolio at [https://chitraarasu-portfolio.netlify.app/](https://chitraarasu-portfolio.netlify.app/)
+- 💼 Currently working as a Software Developer.
+- 👨‍💻 Check out my portfolio: [https://chitraarasu-portfolio.netlify.app/](https://chitraarasu-portfolio.netlify.app/)
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🌱 I’m currently learning more about web3.
+- 🌱 Currently learning AI and improving full-stack skills
 - 📫 How to reach me: kchitraarasu@gmail.com.
 - 😄 Pronouns: chitraarasu, chittu.
-- ⚡ Fun fact: I watch my favourite movies in my free time.
+- ⚡ Fun fact: I learn new tech by building real projects instead of just watching tutorials.
 
 ### Top Technologies
 
@@ -49,11 +49,11 @@ I'm Chitraarasu a Full Stack Web Developer (React/Node.js), Flutter Developer, i
 
 <br >
 
-I love sharing knowledge and writing blogs, and that's why LearnWithMe WordPress Blog exists!
+I enjoy exploring new technologies and building real-world applications, which led me to create my WordPress blog.
 
 ### What is LearnWithMe?
 
-LearnWithMe is a wordpress blog for learning Web/Mobile development and coding. Including new technologies and frameworks and anything really related to development world.
+LearnWithMe is a WordPress blog where I occasionally share my learnings about Web and Mobile development, including new technologies, frameworks, and practical coding concepts.
 
 ### Coding Stats
 
